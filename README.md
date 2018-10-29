@@ -1,4 +1,4 @@
-#house-lands
+# house-lands
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/acannistra/house-lands/master)
 
