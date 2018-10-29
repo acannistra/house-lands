@@ -1,5 +1,8 @@
 #house-lands
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/acannistra/house-lands/master)
+
+
 The general idea here is to identify whether there are congressional districts which both contain large swaths of valuable public land resources and have an interesting congressional race going on this November. 
 
 To do this we're combining three data sources: 
