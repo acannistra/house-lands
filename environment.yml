@@ -2,7 +2,6 @@ name: test-geo
 channels:
 - conda-forge
 dependencies:
-- appnope=0.1.0
 - asn1crypto=0.24.0
 - attrs=18.2.0
 - backcall=0.1.0
@@ -195,7 +194,6 @@ dependencies:
 - zlib=1.2.11
 - blas=1.0
 - intel-openmp=2019.0
-- libgfortran=3.0.1
 - mkl=2019.0
 - numpy=1.15.3
 - numpy-base=1.15.3
